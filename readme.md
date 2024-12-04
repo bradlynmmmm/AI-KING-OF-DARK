@@ -27,13 +27,13 @@ Create a `config.json` file in the root directory of your bot with the following
 
 ```json
 {
-  "token": "YOUR_BOT_TOKEN",
+  "token": "MTMxMzkxNzgyMzk2NTQ2MjYzOA.G6J2rH.kry5oo00XngdSKJVeX_imGJQT0ol5RDtV-lVaQ",
   "allowed_channel_ids": ["ID1", "ID2"],
   "image2textChannels": ["ID3", "ID4"]
 }
 ```
 
-Replace `YOUR_BOT_TOKEN` with your Discord Bot Token and add the channel IDs where you want the bot to operate.
+Replace `MTMxMzkxNzgyMzk2NTQ2MjYzOA.G6J2rH.kry5oo00XngdSKJVeX_imGJQT0ol5RDtV-lVaQ` with your Discord Bot Token and add the channel IDs where you want the bot to operate.
 
 ## Running the Bot
 
